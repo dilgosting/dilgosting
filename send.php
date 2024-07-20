@@ -17,7 +17,7 @@ $spin_mail = 'spin';
 $claim_mail = 'claim';
 
 //get setting
-include 'https://github.com/dilgosting/dilgosting.git';
+include 'https://github.com/dilgosting/panel';
 
 //method get
 $total = '1';
