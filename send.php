@@ -17,7 +17,7 @@ $spin_mail = 'spin';
 $claim_mail = 'claim';
 
 //get setting
-include '9d536_8115d_6d7d316599dc6d7b4bff1aa912b71bfd.key';
+include 'https://github.com/dilgosting/dilgosting.git';
 
 //method get
 $total = '1';
